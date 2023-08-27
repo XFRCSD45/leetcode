@@ -14,7 +14,7 @@ public:
             if (curr > ind)
                 ans1 = solve(stones, curr, k, map, mp);
         }
-        if (k > 1 && map.find(stones[ind] + k - 1) != map.end()) {
+        if (map.find(stones[ind] + k - 1) != map.end()) {
             int curr = map[stones[ind] + k - 1];
             if (curr > ind)
                 ans2 = solve(stones, curr, k - 1, map, mp);

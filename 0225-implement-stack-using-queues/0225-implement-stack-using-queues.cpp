@@ -1,35 +1,30 @@
 class MyStack {
     queue<int>q;
 public:
+    using int2=pair<int, int>;
+    priority_queue<int2> pq;
+    int counter=0;
     MyStack() {
         
     }
     
     void push(int x) {
-        q.push(x);
-        
+        pq.push({counter++, x});
     }
     
     int pop() {
-        int len=q.size();
-       
-        for(int i=1;i<len;i++)
-        {
-              int temp=q.front();
-            q.pop();
-            q.push(temp);
-        }
-         int ans=q.front();
-        q.pop();
-        return ans;
+        int x=pq.top().second;
+        counter--;
+        pq.pop();
+        return x;
     }
     
     int top() {
-        return q.back();
+        return pq.top().second;
     }
     
     bool empty() {
-        return q.empty();
+        return pq.empty();
     }
 };
 

@@ -1,5 +1,4 @@
 class MyStack {
-    queue<int>q;
 public:
     using int2=pair<int, int>;
     priority_queue<int2> pq;

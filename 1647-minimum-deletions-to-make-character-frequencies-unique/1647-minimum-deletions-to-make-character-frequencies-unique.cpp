@@ -2,24 +2,23 @@ class Solution {
 public:
     int minDeletions(string s) {
          
-        unordered_map<int,bool>m;
-        unordered_map<char,int>mp;
-        sort(s.begin(), s.end());
-        for(auto i: s)
-        {
-               mp[i]++;
+      std::unordered_map<char, int> cnt;
+        int deletions = 0;
+        std::unordered_set<int> used_frequencies;
+        
+        for (char c : s) {
+            cnt[c]++;
         }
-        int count=0;
-        for(auto i: mp)
-        {
-            int freq=i.second;
-            while(freq>0 && m[freq]!=false)
-            {
-                     freq--;
-                count++;
+        
+        for (auto& kv : cnt) {
+            int freq = kv.second;
+            while (freq > 0 && used_frequencies.find(freq) != used_frequencies.end()) {
+                freq--;
+                deletions++;
             }
-            m[freq]=true;
+            used_frequencies.insert(freq);
         }
-        return count;
+        
+        return deletions;
     }
 };

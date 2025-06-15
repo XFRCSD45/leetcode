@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/XFRCSD45/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Math
+|  |
+| ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/XFRCSD45/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+## Greedy
+|  |
+| ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/XFRCSD45/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 <!---LeetCode Topics End-->

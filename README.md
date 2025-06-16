@@ -50,9 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/XFRCSD45/leetcode/tree/master/0029-divide-two-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/XFRCSD45/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Greedy
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/XFRCSD45/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/XFRCSD45/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

@@ -9,17 +9,14 @@ public:
         int maxi=v[0]+k;
         while(i<n)
         {
-            while(i<n && v[i]<=maxi)
+            if(v[i]>maxi)
             {
-                i++;
-            }
-            ans++;
-            if(i!=n)
-            {
+                ans++;
                 mini=v[i];
                 maxi=mini+k;
             }
+            i++;
         }
-        return ans;
+        return ans+1;
     }
 };

@@ -7,15 +7,11 @@ public:
         int maxi=-101;
         for(int i=0;i<n;i++)
         {
-            
+             maxi=max(maxi,nums[i]);   
             if(nums[i]>0 && v[nums[i]]==-1)
             {
                 ans+=nums[i];
                 v[nums[i]]=1;
-            }
-            else if(nums[i]<=0)
-            {
-                maxi=max(maxi,nums[i]);
             }
         }
         if(ans==0)

@@ -5,10 +5,6 @@ public:
         {
             return false;
         }
-        if(n==1)
-        {
-            return true;
-        }
         while(n%3 ==0)
         {
             n /= 3;

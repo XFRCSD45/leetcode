@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/XFRCSD45/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/XFRCSD45/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/XFRCSD45/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/XFRCSD45/leetcode/tree/master/0128-longest-consecutive-sequence) |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/XFRCSD45/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/XFRCSD45/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/XFRCSD45/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/XFRCSD45/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/XFRCSD45/leetcode/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/XFRCSD45/leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/XFRCSD45/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/XFRCSD45/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Two Pointers
 |  |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/XFRCSD45/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

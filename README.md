@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/XFRCSD45/leetcode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/XFRCSD45/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/XFRCSD45/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->

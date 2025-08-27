@@ -12,17 +12,17 @@ class Solution {
         if (newRow < 0 || newRow >= n || newCol < 0 || newCol >= m || grid[newRow][newCol] != val) {
             return 0;
         }
-        if (dp[i][j][dr][f] != 0) {
-            return dp[i][j][dr][f];
+        if (dp[newRow][newCol][dr][f] != 0) {
+            return dp[newRow][newCol][dr][f];
         }
-        dp[i][j][dr][f] = 1;
+        dp[newRow][newCol][dr][f] = 1;
         int op1 = helper(newRow, newCol, val == 2 ? 0 : 2, dr, n, m, f, grid, dp);
         int op2 = 0;
         if (f == 1) {
             op2 = helper(newRow, newCol, val == 2 ? 0 : 2, (dr + 1) % 4, n, m, 0, grid, dp);
         }
-        dp[i][j][dr][f] += Math.max(op1, op2);
-        return dp[i][j][dr][f];
+        dp[newRow][newCol][dr][f] += Math.max(op1, op2);
+        return dp[newRow][newCol][dr][f];
     }
 
     public int lenOfVDiagonal(int[][] grid) {

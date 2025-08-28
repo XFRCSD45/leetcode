@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/XFRCSD45/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/XFRCSD45/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/XFRCSD45/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/XFRCSD45/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/XFRCSD45/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/XFRCSD45/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/XFRCSD45/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/XFRCSD45/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3748-sort-matrix-by-diagonals](https://github.com/XFRCSD45/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/XFRCSD45/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/XFRCSD45/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/XFRCSD45/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/XFRCSD45/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Monotonic Stack
 |  |
 | ------- |

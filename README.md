@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/XFRCSD45/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/XFRCSD45/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/XFRCSD45/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
+| [0242-valid-anagram](https://github.com/XFRCSD45/leetcode/tree/master/0242-valid-anagram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/XFRCSD45/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/XFRCSD45/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/XFRCSD45/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/XFRCSD45/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/XFRCSD45/leetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/XFRCSD45/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/XFRCSD45/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |

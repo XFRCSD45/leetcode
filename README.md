@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/XFRCSD45/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/XFRCSD45/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/XFRCSD45/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/XFRCSD45/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/XFRCSD45/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/XFRCSD45/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/XFRCSD45/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/XFRCSD45/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/XFRCSD45/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/XFRCSD45/leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/XFRCSD45/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/XFRCSD45/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/XFRCSD45/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/XFRCSD45/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/XFRCSD45/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/XFRCSD45/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |

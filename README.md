@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/XFRCSD45/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/XFRCSD45/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Array
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/XFRCSD45/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/XFRCSD45/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -171,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |

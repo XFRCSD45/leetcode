@@ -10,13 +10,14 @@ public:
         }
         if(currOpen >=1)
         {
-            string temp = s+ ')';
-            solve(n, open ,currOpen-1, temp, ans);
+            s+=')';
+            solve(n, open ,currOpen-1, s, ans);
+            s.pop_back();
         }
         if(open<n)
         {
-            string temp= s + '(';
-            solve(n, open+1, currOpen+1, temp, ans);
+             s+= '(';
+            solve(n, open+1, currOpen+1, s, ans);
         }
         
         

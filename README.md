@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0242-valid-anagram](https://github.com/XFRCSD45/leetcode/tree/master/0242-valid-anagram) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/XFRCSD45/leetcode/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0679-24-game](https://github.com/XFRCSD45/leetcode/tree/master/0679-24-game) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |

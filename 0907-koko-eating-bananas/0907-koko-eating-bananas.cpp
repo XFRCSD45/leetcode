@@ -12,13 +12,13 @@ public:
      }
     int minEatingSpeed(vector<int>& piles, int h) {
         int low=1, high=INT_MAX;
-        int ans = INT_MAX;
+        // int ans = INT_MAX;
         while(low<=high)
         {
             int mid = low + (high-low)/2;
             if(check(mid,h,piles))
             {
-                ans=min(ans,mid);
+                // ans=min(ans,mid);
                 high=mid-1;
             }
             else
@@ -26,6 +26,6 @@ public:
                 low=mid+1;
             }
         }
-        return ans;
+        return low;
     }
 };

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/XFRCSD45/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/XFRCSD45/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/XFRCSD45/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/XFRCSD45/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/XFRCSD45/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/XFRCSD45/leetcode/tree/master/0242-valid-anagram) |
 | [1006-vowel-spellchecker](https://github.com/XFRCSD45/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/XFRCSD45/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/XFRCSD45/leetcode/tree/master/0029-divide-two-integers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/XFRCSD45/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/XFRCSD45/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/XFRCSD45/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/XFRCSD45/leetcode/tree/master/0342-power-of-four) |

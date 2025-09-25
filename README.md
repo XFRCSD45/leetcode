@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/XFRCSD45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/XFRCSD45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/XFRCSD45/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/XFRCSD45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/XFRCSD45/leetcode/tree/master/0283-move-zeroes) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0120-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |

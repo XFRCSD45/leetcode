@@ -3,12 +3,9 @@ public:
     string fractionToDecimal(int numerator, int denominator) {
         if(numerator == 0) return "0";
         string ans;
-        if((numerator > 0) && (denominator > 0)){
-            ans += "";
-        }else if((numerator < 0) && (denominator<0)){
-            ans += "";
-        }else{
-            ans += "-";
+        if((numerator<0 && denominator>0) || (numerator>0 && denominator<0))
+        {
+            ans='-';
         }
         long long num = llabs(numerator);
         long long den = llabs(denominator);
@@ -18,19 +15,19 @@ public:
         if(remainder == 0) return ans;
         ans += ".";
         
-        unordered_map<long long, int> seen;
+        unordered_map<long long, int> m;
         while(remainder != 0){
-            if(seen.count(remainder)){
-                ans.insert(seen[remainder], "(");
+            if(m[remainder]){
+                ans.insert(m[remainder], "(");
                 ans+= ")";
                 break;
-
             }
-            seen[remainder] = ans.size();
+            m[remainder] = ans.size();
             remainder = remainder*10;
             ans += to_string(remainder/den);
             remainder = remainder%den;
         }
+        
         return ans;
     }
 };

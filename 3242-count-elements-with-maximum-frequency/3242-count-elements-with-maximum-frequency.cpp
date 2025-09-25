@@ -2,19 +2,22 @@ class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) {
         vector<int>ans(101);
+
+        int maxi=0, result=0;
         for(int i=0;i<nums.size();i++)
         {
             ans[nums[i]]++;
-        }
-        int maxi= *max_element(ans.begin(), ans.end());
-        int result=0;
-        for(int i=0;i<101;i++)
-        {
-            if(ans[i]==maxi)
+            if(ans[nums[i]]>maxi)
             {
-                result+=ans[i];
+                maxi=ans[nums[i]];
+                result=ans[nums[i]];
+            }
+            else if(ans[nums[i]]==maxi)
+            {
+                result+=ans[nums[i]];
             }
         }
+        
         return result;
     }
 };

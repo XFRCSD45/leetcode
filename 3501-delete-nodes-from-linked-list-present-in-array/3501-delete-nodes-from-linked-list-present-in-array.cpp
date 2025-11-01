@@ -23,14 +23,21 @@ public:
             temp=temp->next;
         }
         ans=temp;
-        while(temp!=NULL && temp->next!=NULL)
+        if(!ans){
+            return NULL;
+        }
+        while( temp->next!=NULL)
         {
-            while(temp->next !=NULL && m[temp->next->val])
+            if(m[temp->next->val])
             {
                 temp->next = temp->next->next;
 
             }
+            else
+            {
+
             temp=temp->next;
+            }
         }
         return ans;
     }

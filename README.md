@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/XFRCSD45/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/XFRCSD45/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/XFRCSD45/leetcode/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/XFRCSD45/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/XFRCSD45/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/XFRCSD45/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/XFRCSD45/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/XFRCSD45/leetcode/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/XFRCSD45/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/XFRCSD45/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/XFRCSD45/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/XFRCSD45/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/XFRCSD45/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/XFRCSD45/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/XFRCSD45/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/XFRCSD45/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/XFRCSD45/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/XFRCSD45/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/XFRCSD45/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
 |  |
 | ------- |

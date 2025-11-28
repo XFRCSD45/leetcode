@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/XFRCSD45/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2793-count-the-number-of-complete-components](https://github.com/XFRCSD45/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/XFRCSD45/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/XFRCSD45/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |

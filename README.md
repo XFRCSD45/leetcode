@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/XFRCSD45/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/XFRCSD45/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/XFRCSD45/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/XFRCSD45/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/XFRCSD45/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/XFRCSD45/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/XFRCSD45/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/XFRCSD45/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/XFRCSD45/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/XFRCSD45/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Depth-First Search
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/XFRCSD45/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/XFRCSD45/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/XFRCSD45/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
 |  |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/XFRCSD45/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/XFRCSD45/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/XFRCSD45/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/XFRCSD45/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/XFRCSD45/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/XFRCSD45/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -496,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/XFRCSD45/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->

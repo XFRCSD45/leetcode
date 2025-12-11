@@ -1,31 +1,28 @@
 class Solution {
 public:
     int countCoveredBuildings(int n, vector<vector<int>>& buildings) {
-     map<int, vector<int>>x, y;
-     int sz=buildings.size();
-     for(int i=0;i<sz;i++)
-     {
-        int X=buildings[i][0];
-        int Y = buildings[i][1];
-        x[X].push_back(Y);
-        y[Y].push_back(X);
-     }
-     int ans=0;
-     for(auto i:x)
-     {
-        int m = i.second.size();
-        sort(i.second.begin(), i.second.end()); 
-        for(int j=1;j<m-1;j++)
-        {
-            int currY=i.second[j];
-            int len = y[currY].size();
-            sort(y[currY].begin(), y[currY].end());
-            if(y[currY][0]!=i.first && y[currY][len-1]!=i.first)
-            {
-                ans++;
+     vector<int> maxRow(n + 1);
+        vector<int> minRow(n + 1, n + 1);
+        vector<int> maxCol(n + 1);
+        vector<int> minCol(n + 1, n + 1);
+
+        for (auto& p : buildings) {
+            int x = p[0], y = p[1];
+            maxRow[y] = max(maxRow[y], x);
+            minRow[y] = min(minRow[y], x);
+            maxCol[x] = max(maxCol[x], y);
+            minCol[x] = min(minCol[x], y);
+        }
+
+        int res = 0;
+        for (auto& p : buildings) {
+            int x = p[0], y = p[1];
+            if (x > minRow[y] && x < maxRow[y] && y > minCol[x] &&
+                y < maxCol[x]) {
+                res++;
             }
         }
-     }
-     return ans;
+
+        return res;
     }
 };

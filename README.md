@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/XFRCSD45/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/XFRCSD45/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/XFRCSD45/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/XFRCSD45/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/XFRCSD45/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/XFRCSD45/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/XFRCSD45/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/XFRCSD45/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/XFRCSD45/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/XFRCSD45/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/XFRCSD45/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/XFRCSD45/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/XFRCSD45/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/XFRCSD45/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Heap (Priority Queue)
 |  |

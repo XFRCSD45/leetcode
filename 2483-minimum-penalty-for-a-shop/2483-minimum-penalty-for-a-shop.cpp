@@ -1,32 +1,34 @@
 class Solution {
 public:
-   int bestClosingTime(string customers) {
-        int n=customers.length();
-        
-		// Storing count of 'Y' penalties on right if we close on 'ith index'
-        vector<int> right(n+1,0);
-        for(int i=n-1;i>=0;i--) right[i] = (i<n-1 ? right[i+1]:0) + (customers[i]=='Y');
-        
-		 // storing 'N' penalties on left if close on 'ith' index
-        vector<int> left(n,0);
-        
-        int min_penalty=n+1;
-        int idx=-1;
-        
-        for(int i=0;i<n;i++){
-            int penalty = right[i] + (i>0 ? left[i-1]:0);
-            
-            if(min_penalty > penalty){
-                min_penalty=min(min_penalty,penalty);
-                idx = i;
-            }
-			
-			left[i] = (i>0 ? left[i-1]:0) + (customers[i]=='N');
+    int bestClosingTime(string customers) {
+        int n = customers.size();
+        vector<int> prefix(n + 1, 0), suffix(n + 1, 0);
+        prefix[0] = customers[0] == 'N' ? 1 : 0;
+        for (int i = 1; i < n; i++) {
+
+            prefix[i] = prefix[i - 1] + (customers[i] == 'N' ? 1 : 0);
         }
-        
-		// if we decide to close after all customers have come
-        if(min_penalty > right[n] + left[n-1]) return n;
-		
-        return idx;
+        prefix[n] = prefix[n - 1];
+        for (int i = n - 1; i >= 0; i--) {
+
+            suffix[i] = suffix[i + 1] + (customers[i] == 'Y' ? 1 : 0);
+        }
+
+        int mini = n;
+        int ans = n;
+        for (int i = 0; i < n; i++) {
+            int curr = prefix[i] + suffix[i];
+            if (customers[i] == 'N') {
+                curr--;
+            }
+            if (curr < mini) {
+                ans = i;
+                mini = curr;
+            }
+        }
+        if (prefix[n] < mini) {
+            return n;
+        }
+        return ans;
     }
 };

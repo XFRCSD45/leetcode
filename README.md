@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/XFRCSD45/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/XFRCSD45/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/XFRCSD45/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1006-vowel-spellchecker](https://github.com/XFRCSD45/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/XFRCSD45/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/XFRCSD45/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/XFRCSD45/leetcode/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/XFRCSD45/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/XFRCSD45/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/XFRCSD45/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/XFRCSD45/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/XFRCSD45/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/XFRCSD45/leetcode/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0679-24-game](https://github.com/XFRCSD45/leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/XFRCSD45/leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/XFRCSD45/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/XFRCSD45/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/XFRCSD45/leetcode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/XFRCSD45/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/XFRCSD45/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/XFRCSD45/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |

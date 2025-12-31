@@ -1,46 +1,60 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int n = nums1.size()+nums2.size();
         int m = nums1.size();
-        int n = nums2.size();
-
-        // Ensure nums1 is the smaller array to simplify the algorithm
-        if (m > n) {
-            swap(nums1, nums2);
-            swap(m, n);
+        int k = nums2.size();
+        int mid1=(n+1)/2;
+        int mid2=mid1;
+        if(n%2==0)
+        {
+            mid2++;
         }
-
-        int left = 0, right = m;
-        int mid = (m + n + 1) / 2; // Calculate the midpoint of the combined array
-
-        while (left <= right) {
-            int partition1 = left + (right - left) / 2;
-            int partition2 = mid - partition1;
-
-            int maxLeft1 = (partition1 == 0) ? INT_MIN : nums1[partition1 - 1];
-            int minRight1 = (partition1 == m) ? INT_MAX : nums1[partition1];
-
-            int maxLeft2 = (partition2 == 0) ? INT_MIN : nums2[partition2 - 1];
-            int minRight2 = (partition2 == n) ? INT_MAX : nums2[partition2];
-
-            if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
-                // Found the correct partitions
-                if ((m + n) % 2 == 0) {
-                    // If the combined array has an even length, take the average
-                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0;
-                } else {
-                    // If the combined array has an odd length, return the maximum of the left elements
-                    return max(maxLeft1, maxLeft2);
+        int i=0, j=0;
+        int count=1;
+        int ans=0;
+        while(i<m && j<k)
+        {
+            if(nums1[i]<=nums2[j])
+            {
+                if(count==mid1 || count==mid2)
+                {
+                    ans+=nums1[i];
                 }
-            } else if (maxLeft1 > minRight2) {
-                // Adjust the partition1 to the left
-                right = partition1;
-            } else {
-                // Adjust the partition1 to the right
-                left = partition1 + 1;
+                i++;
             }
+            else
+            {
+                if(count==mid1 || count==mid2)
+                {
+                    ans+=nums2[j];
+                }
+                j++;
+            }
+            count++;
         }
-
-        return 0.0; // Return 0.0 if no solution is found (shouldn't normally happen)
+        while(i<m)
+        {
+            if(count==mid1 || count==mid2)
+                {
+                    ans+=nums1[i];
+                }
+                i++;
+                count++;
+        }
+        while(j<k)
+        {
+             if(count==mid1 || count==mid2)
+                {
+                    ans+=nums2[j];
+                }
+                j++;
+                count++;
+        }
+        if(n&1)
+        {
+            return ans/1.0;
+        }
+        return ans/2.0;
     }
 };

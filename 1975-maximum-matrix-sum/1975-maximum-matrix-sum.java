@@ -1,34 +1,24 @@
 class Solution {
+
     public long maxMatrixSum(int[][] matrix) {
-        int count=0;
-        int n = matrix.length;
-        int m = matrix[0].length;
-        int mini=Integer.MIN_VALUE, posMin=Integer.MAX_VALUE;
-        long sum=0, flag=0;
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(matrix[i][j]<0)
-                {
-                    count++;
-                    mini=Math.max(mini, matrix[i][j]);
-                }else if(matrix[i][j]==0)
-                {
-                    flag=1;
-                }else
-                {
-                    posMin=Math.min(posMin, matrix[i][j]);
+        long totalSum = 0;
+        int minAbsVal = Integer.MAX_VALUE;
+        int negativeCount = 0;
+
+        for (int[] row : matrix) {
+            for (int val : row) {
+                totalSum += Math.abs(val);
+                if (val < 0) {
+                    negativeCount++;
                 }
-                sum+=Math.abs(matrix[i][j]);
+                minAbsVal = Math.min(minAbsVal, Math.abs(val));
             }
         }
-        if(count%2==1 && flag==0)
-        {
-            mini=Math.abs(mini);
-            mini=Math.min(mini,posMin);
-            sum-=2*mini;
+
+        if (negativeCount % 2 != 0) {
+            totalSum -= 2 * minAbsVal;
         }
-        return sum;
+
+        return totalSum;
     }
 }

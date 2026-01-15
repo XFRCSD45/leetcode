@@ -29,7 +29,7 @@ public:
                 vCurr=1;
             }
         }
-        long long  ans = 1LL* (min(hMaxi,vMaxi)+1LL)*(min(hMaxi,vMaxi)+ 1LL);
-        return (int)ans;
+        int ans = min(hMaxi,vMaxi) + 1;
+        return ans*ans;
     }
 };

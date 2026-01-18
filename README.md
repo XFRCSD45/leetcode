@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/XFRCSD45/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/XFRCSD45/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1895-largest-magic-square](https://github.com/XFRCSD45/leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/XFRCSD45/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/XFRCSD45/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/XFRCSD45/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/XFRCSD45/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/XFRCSD45/leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/XFRCSD45/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/XFRCSD45/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/XFRCSD45/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/XFRCSD45/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/XFRCSD45/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/XFRCSD45/leetcode/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/XFRCSD45/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/XFRCSD45/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/XFRCSD45/leetcode/tree/master/2625-increment-submatrices-by-one) |

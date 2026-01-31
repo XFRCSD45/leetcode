@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/XFRCSD45/leetcode/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/XFRCSD45/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/XFRCSD45/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/XFRCSD45/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/XFRCSD45/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/XFRCSD45/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/XFRCSD45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/XFRCSD45/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/XFRCSD45/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/XFRCSD45/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/XFRCSD45/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/XFRCSD45/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

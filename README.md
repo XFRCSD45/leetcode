@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/XFRCSD45/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/XFRCSD45/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/XFRCSD45/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3637-trionic-array-i](https://github.com/XFRCSD45/leetcode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/XFRCSD45/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/XFRCSD45/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/XFRCSD45/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |

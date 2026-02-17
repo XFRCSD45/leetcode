@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/XFRCSD45/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0040-combination-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
+| [0401-binary-watch](https://github.com/XFRCSD45/leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/XFRCSD45/leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/XFRCSD45/leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Breadth-First Search
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/XFRCSD45/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/XFRCSD45/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/XFRCSD45/leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/XFRCSD45/leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/XFRCSD45/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/XFRCSD45/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |

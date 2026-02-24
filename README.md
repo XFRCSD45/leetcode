@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/XFRCSD45/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0934-shortest-bridge](https://github.com/XFRCSD45/leetcode/tree/master/0934-shortest-bridge) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |

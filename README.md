@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/XFRCSD45/leetcode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/XFRCSD45/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/XFRCSD45/leetcode/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/XFRCSD45/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/XFRCSD45/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/XFRCSD45/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/XFRCSD45/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/XFRCSD45/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/XFRCSD45/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/XFRCSD45/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/XFRCSD45/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Counting
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/XFRCSD45/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/XFRCSD45/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/XFRCSD45/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/XFRCSD45/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/XFRCSD45/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/XFRCSD45/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/XFRCSD45/leetcode/tree/master/3748-sort-matrix-by-diagonals) |

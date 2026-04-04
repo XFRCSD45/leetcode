@@ -2,31 +2,26 @@ class Solution {
 public:
     string decodeCiphertext(string s, int rows) {
         int n = s.size();
-        int cols = n/rows;
-        vector<vector<char>>v(rows,vector<char>(cols));
-        int pos=0;
-        for(int i=0;i<rows;i++)
-        {
-            for(int j=0;j<cols;j++)
-            {
-                v[i][j]=s[pos++];
+        if (rows == 1)
+            return s;
+
+        int cols = n / rows;
+        string res;
+        res.reserve(n);
+
+        for (int c = 0; c < cols; ++c) {
+            int r = 0, j = c;
+            while (r < rows && j < cols) {
+                res += s[r * cols + j];
+                ++r;
+                ++j;
             }
         }
-        string ans="";
-        int i=0, j=0;
-        while(j<cols)
-        {
-            int curr=j;
-            while(i<rows && j<cols)
-            {
-                ans+=v[i][j];
-                i++;
-                j++;
-            }
-            i=0;
-            j=curr+1;
+
+        while (!res.empty() && res.back() == ' ') {
+            res.pop_back();
         }
-         ans.erase(ans.find_last_not_of(' ') + 1);
-         return ans;
+
+        return res;
     }
 };

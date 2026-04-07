@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XFRCSD45/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/XFRCSD45/leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/XFRCSD45/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/XFRCSD45/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/XFRCSD45/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/XFRCSD45/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/XFRCSD45/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/XFRCSD45/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/XFRCSD45/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/XFRCSD45/leetcode/tree/master/3797-design-spreadsheet) |
 ## Combinatorics

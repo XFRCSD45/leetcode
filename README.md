@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/XFRCSD45/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/XFRCSD45/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/XFRCSD45/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1895-largest-magic-square](https://github.com/XFRCSD45/leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/XFRCSD45/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/XFRCSD45/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |

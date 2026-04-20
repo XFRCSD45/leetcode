@@ -4,12 +4,8 @@ public:
         int n = colors.size();
         int first = colors[0];
         int last = colors[n-1];
-        if(first!=last)
-        {
-            return n-1;
-        }
         int ans=0;
-        for(int i=1;i<n-1;i++)
+        for(int i=0;i<n;i++)
         {
             if(colors[i]!=first)
             {

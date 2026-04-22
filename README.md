@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/XFRCSD45/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/XFRCSD45/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/XFRCSD45/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/XFRCSD45/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/XFRCSD45/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/XFRCSD45/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/XFRCSD45/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/XFRCSD45/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/XFRCSD45/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/XFRCSD45/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/XFRCSD45/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/XFRCSD45/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2625-increment-submatrices-by-one](https://github.com/XFRCSD45/leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/XFRCSD45/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/XFRCSD45/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Rolling Hash
 |  |

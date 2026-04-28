@@ -23,8 +23,6 @@ public:
             }
         }
         sort(vec.begin(), vec.end());
-        int ans = max(solve(vec, x, (vec.size()) / 2),
-                      solve(vec, x, (vec.size()- 1) / 2));
-        return ans;
+        return solve(vec, x, (vec.size()) / 2);
     }
 };

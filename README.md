@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/XFRCSD45/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/XFRCSD45/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/XFRCSD45/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3225-maximum-score-from-grid-operations](https://github.com/XFRCSD45/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/XFRCSD45/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/XFRCSD45/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/XFRCSD45/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/XFRCSD45/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/XFRCSD45/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/XFRCSD45/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/XFRCSD45/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/XFRCSD45/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/XFRCSD45/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/XFRCSD45/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/XFRCSD45/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3225-maximum-score-from-grid-operations](https://github.com/XFRCSD45/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/XFRCSD45/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/XFRCSD45/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/XFRCSD45/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/XFRCSD45/leetcode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/XFRCSD45/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/XFRCSD45/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/XFRCSD45/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/XFRCSD45/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/XFRCSD45/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |

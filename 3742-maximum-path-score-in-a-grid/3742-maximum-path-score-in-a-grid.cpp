@@ -29,9 +29,6 @@ public:
         };
 
         int ans = solve(n - 1, m - 1, k);
-        for (int i = 0; i <= k; i++) {
-            ans = max(ans, dp[0][0][i]);
-        }
         return ans == INT_MIN ? -1 : ans;
     }
 };

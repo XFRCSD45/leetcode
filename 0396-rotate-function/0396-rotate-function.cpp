@@ -9,13 +9,11 @@ public:
             ans+=nums[i]*i;
             total+=nums[i];
         }
-        int res =ans;
+        int res=ans;
         for(int i=n-1;i>=0;i--)
         {
-            int curr = ans + (total-nums[i]);
-            curr = curr - (nums[i]*(n-1));
-            ans=curr;
-            res=max(res,ans);
+            ans = ans + total - nums[i]*n;
+            res=max(ans, res);
         }
         return res;
     }

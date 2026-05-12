@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/XFRCSD45/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/XFRCSD45/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/XFRCSD45/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/XFRCSD45/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XFRCSD45/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/XFRCSD45/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/XFRCSD45/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/XFRCSD45/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/XFRCSD45/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/XFRCSD45/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/XFRCSD45/leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/XFRCSD45/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XFRCSD45/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/XFRCSD45/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/XFRCSD45/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/XFRCSD45/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/XFRCSD45/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |

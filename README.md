@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/XFRCSD45/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/XFRCSD45/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/XFRCSD45/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/XFRCSD45/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/XFRCSD45/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/XFRCSD45/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/XFRCSD45/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/XFRCSD45/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/XFRCSD45/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XFRCSD45/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/XFRCSD45/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/XFRCSD45/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/XFRCSD45/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/XFRCSD45/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1895-largest-magic-square](https://github.com/XFRCSD45/leetcode/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/XFRCSD45/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/XFRCSD45/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |

@@ -25,22 +25,16 @@ public:
 
             if(node == n - 1)
                 return steps;
-
-            // i+1
             if(node + 1 < n && !vis[node + 1]) {
                 vis[node + 1] = 1;
                 q.push({node + 1, steps + 1});
             }
 
-            // i-1
             if(node - 1 >= 0 && !vis[node - 1]) {
                 vis[node - 1] = 1;
                 q.push({node - 1, steps + 1});
             }
-
-            // same value jumps
             for(auto idx : mp[arr[node]]) {
-
                 if(!vis[idx]) {
                     vis[idx] = 1;
                     q.push({idx, steps + 1});

@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/XFRCSD45/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/XFRCSD45/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3093-longest-common-suffix-queries](https://github.com/XFRCSD45/leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/XFRCSD45/leetcode/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/XFRCSD45/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-maximum-score-from-grid-operations](https://github.com/XFRCSD45/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/XFRCSD45/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/XFRCSD45/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/XFRCSD45/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/XFRCSD45/leetcode/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/XFRCSD45/leetcode/tree/master/3161-block-placement-queries) |
 | [3453-separate-squares-i](https://github.com/XFRCSD45/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/XFRCSD45/leetcode/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/XFRCSD45/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/XFRCSD45/leetcode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/XFRCSD45/leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/XFRCSD45/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/XFRCSD45/leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -960,4 +963,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/XFRCSD45/leetcode/tree/master/0796-rotate-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/XFRCSD45/leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->

@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/XFRCSD45/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/XFRCSD45/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/XFRCSD45/leetcode/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/XFRCSD45/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/XFRCSD45/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/XFRCSD45/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/XFRCSD45/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/XFRCSD45/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/XFRCSD45/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/XFRCSD45/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/XFRCSD45/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/XFRCSD45/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/XFRCSD45/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/XFRCSD45/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/XFRCSD45/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/XFRCSD45/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/XFRCSD45/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/XFRCSD45/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/XFRCSD45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/XFRCSD45/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |

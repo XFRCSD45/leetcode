@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/XFRCSD45/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/XFRCSD45/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/XFRCSD45/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/XFRCSD45/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XFRCSD45/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/XFRCSD45/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/XFRCSD45/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/XFRCSD45/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/XFRCSD45/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/XFRCSD45/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/XFRCSD45/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/XFRCSD45/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/XFRCSD45/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/XFRCSD45/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/XFRCSD45/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/XFRCSD45/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/XFRCSD45/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/XFRCSD45/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/XFRCSD45/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |

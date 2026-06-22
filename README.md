@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/XFRCSD45/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/XFRCSD45/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0040-combination-sum-ii) |
+| [0113-path-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/XFRCSD45/leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/XFRCSD45/leetcode/tree/master/0679-24-game) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/XFRCSD45/leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |

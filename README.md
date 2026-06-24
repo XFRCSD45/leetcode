@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/XFRCSD45/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/XFRCSD45/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/XFRCSD45/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/XFRCSD45/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/XFRCSD45/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/XFRCSD45/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -1044,4 +1047,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/XFRCSD45/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/XFRCSD45/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

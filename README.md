@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/XFRCSD45/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/XFRCSD45/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/XFRCSD45/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/XFRCSD45/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/XFRCSD45/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/XFRCSD45/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/XFRCSD45/leetcode/tree/master/1345-jump-game-iv) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/XFRCSD45/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/XFRCSD45/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/XFRCSD45/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/XFRCSD45/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/XFRCSD45/leetcode/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/XFRCSD45/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0934-shortest-bridge](https://github.com/XFRCSD45/leetcode/tree/master/0934-shortest-bridge) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/XFRCSD45/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/XFRCSD45/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/XFRCSD45/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/XFRCSD45/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/XFRCSD45/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |

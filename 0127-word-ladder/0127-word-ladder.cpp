@@ -6,7 +6,6 @@ public:
         for (auto s : wordList) {
             m[s] = true;
         }
-        int ans = INT_MAX;
         queue<pair<string, int>> q;
         q.push({beginWord, 1});
         int n = beginWord.size();
@@ -18,7 +17,7 @@ public:
             cout<<curr<<" "<<d<<endl;
             q.pop();
             if (p.first == endWord) {
-                ans = min(ans, p.second);
+                return d;
             }
             for (int i = 0; i < n; i++) {
                 for (int j= 0; j < 26; j++) {
@@ -36,6 +35,6 @@ public:
             }
         }
 
-        return ans==INT_MAX?0:ans;
+        return 0;
     }
 };

@@ -5,6 +5,7 @@ public:
         int i = 0;
         int mx = 0;
         int prev = 0;
+        int ones=0;
 
         while (i < n) {
             if (s[i] == '0') {
@@ -12,7 +13,10 @@ public:
                 i++;
             } else {
                 while (i < n && s[i] == '1')
+                {
+                    ones++;
                     i++;
+                }
 
                 int cnt = 0;
                 while (i < n && s[i] == '0') {
@@ -27,11 +31,6 @@ public:
             }
         }
 
-        int ans = 0;
-        for (char c : s)
-            if (c == '1')
-                ans++;
-
-        return ans + mx;
+        return ones + mx;
     }
 };

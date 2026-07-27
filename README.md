@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/XFRCSD45/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/XFRCSD45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/XFRCSD45/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/XFRCSD45/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/XFRCSD45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0118-pascals-triangle) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/XFRCSD45/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/XFRCSD45/leetcode/tree/master/0085-maximal-rectangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/XFRCSD45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/XFRCSD45/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/XFRCSD45/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/XFRCSD45/leetcode/tree/master/0085-maximal-rectangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/XFRCSD45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/XFRCSD45/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |

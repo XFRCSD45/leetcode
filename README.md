@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/XFRCSD45/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/XFRCSD45/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/XFRCSD45/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0891-sum-of-subsequence-widths](https://github.com/XFRCSD45/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0907-koko-eating-bananas](https://github.com/XFRCSD45/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0934-shortest-bridge](https://github.com/XFRCSD45/leetcode/tree/master/0934-shortest-bridge) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/XFRCSD45/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0891-sum-of-subsequence-widths](https://github.com/XFRCSD45/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [1200-minimum-absolute-difference](https://github.com/XFRCSD45/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/XFRCSD45/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/XFRCSD45/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/XFRCSD45/leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/XFRCSD45/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
+| [0891-sum-of-subsequence-widths](https://github.com/XFRCSD45/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/XFRCSD45/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/XFRCSD45/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |

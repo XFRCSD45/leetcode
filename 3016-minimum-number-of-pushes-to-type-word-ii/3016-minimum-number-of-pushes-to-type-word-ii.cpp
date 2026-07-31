@@ -7,14 +7,7 @@ public:
         {
             freq[word[i]-'a']++;
         }
-        vector<pair<int,int>>v;
-        for(int i=0;i<26;i++)
-        {
-            v.push_back({freq[i],i});
-        }
-        sort(v.begin(), v.end(), [&](pair<int,int>&a, pair<int,int>&b){
-            return a.first>b.first;
-        });
+        sort(freq.rbegin(), freq.rend());
         int ans=0;
         int presses=0;
         for(int i=0;i<26;i++)
@@ -23,7 +16,7 @@ public:
             {
                 presses++;
             }
-            ans += (v[i].first * presses);
+            ans += (freq[i] * presses);
         }
 
         return ans;

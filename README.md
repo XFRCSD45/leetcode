@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/XFRCSD45/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/XFRCSD45/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/XFRCSD45/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/XFRCSD45/leetcode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/XFRCSD45/leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/XFRCSD45/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/XFRCSD45/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/XFRCSD45/leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/XFRCSD45/leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/XFRCSD45/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/XFRCSD45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/XFRCSD45/leetcode/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/XFRCSD45/leetcode/tree/master/0788-rotated-digits) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/XFRCSD45/leetcode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/XFRCSD45/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/XFRCSD45/leetcode/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/XFRCSD45/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/XFRCSD45/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/XFRCSD45/leetcode/tree/master/0799-champagne-tower) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/XFRCSD45/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/XFRCSD45/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/XFRCSD45/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/XFRCSD45/leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XFRCSD45/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/XFRCSD45/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -1087,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/XFRCSD45/leetcode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/XFRCSD45/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |

@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/XFRCSD45/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/XFRCSD45/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/XFRCSD45/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/XFRCSD45/leetcode/tree/master/0877-stone-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/XFRCSD45/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0907-koko-eating-bananas](https://github.com/XFRCSD45/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/XFRCSD45/leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/XFRCSD45/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/XFRCSD45/leetcode/tree/master/0877-stone-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/XFRCSD45/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/XFRCSD45/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/XFRCSD45/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/XFRCSD45/leetcode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/XFRCSD45/leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/XFRCSD45/leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/XFRCSD45/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/XFRCSD45/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/XFRCSD45/leetcode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/XFRCSD45/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |

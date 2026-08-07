@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/XFRCSD45/leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/XFRCSD45/leetcode/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/XFRCSD45/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/XFRCSD45/leetcode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/XFRCSD45/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/XFRCSD45/leetcode/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/XFRCSD45/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/XFRCSD45/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |

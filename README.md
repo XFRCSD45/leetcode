@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/XFRCSD45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/XFRCSD45/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/XFRCSD45/leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/XFRCSD45/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/XFRCSD45/leetcode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/XFRCSD45/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/XFRCSD45/leetcode/tree/master/0877-stone-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/XFRCSD45/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/XFRCSD45/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/XFRCSD45/leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/XFRCSD45/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/XFRCSD45/leetcode/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/XFRCSD45/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/XFRCSD45/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/XFRCSD45/leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/XFRCSD45/leetcode/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/XFRCSD45/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/XFRCSD45/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/XFRCSD45/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/XFRCSD45/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/XFRCSD45/leetcode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/XFRCSD45/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/XFRCSD45/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/XFRCSD45/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1110,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/XFRCSD45/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/XFRCSD45/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/XFRCSD45/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/XFRCSD45/leetcode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/XFRCSD45/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
@@ -1260,9 +1265,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/XFRCSD45/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/XFRCSD45/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/XFRCSD45/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/XFRCSD45/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

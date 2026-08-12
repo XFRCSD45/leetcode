@@ -1,30 +1,24 @@
 class Solution {
 public:
     int maxSubarrayLength(vector<int>& nums, int k) {
-        unordered_map<int,int>m;
-        int n = nums.size();
-        int i=0, j=0, ans=0;
-        while(j<n)
-        {
-            // cout<<i<<" "<<j<<" "<<ans<<endl;
-            if(m[nums[j]]==k)
-            {
-
-                ans=max(ans, j-i); 
-                // cout<<"Finding ans at i , j"<<i<<" "<<j<<ans<<endl;
-                while(!(nums[i]==nums[j]))
-                {
-                    // cout<<i<<" "<<m[nums[i]]<<endl;
-                    m[nums[i]]--;
-                    i++;
-                }
-                m[nums[i]]--;
-                i++;
+        int n = nums.size(); 
+        unordered_map<int, int> frequency; 
+        int start = 0;
+        int charsWithFreqOverK = 0;
+        
+        for (int end = 0; end < n; end++) {
+            frequency[nums[end]]++;
+            if (frequency[nums[end]] == k + 1) {
+                charsWithFreqOverK++;
             }
-            m[nums[j]]++;
-            j++;
+            if (charsWithFreqOverK > 0) {
+                frequency[nums[start]]--;
+                if (frequency[nums[start]] == k) {
+                    charsWithFreqOverK--;
+                }
+                start++;
+            }
         }
-        ans=max(ans,j-i);
-        return ans;
+        return n - start;
     }
 };

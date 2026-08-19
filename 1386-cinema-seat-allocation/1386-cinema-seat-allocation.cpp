@@ -17,7 +17,6 @@ public:
             int j = i;
             int first = 1, second = 1, third = 1;
             while (j < m && reservedSeats[j][0] == reservedSeats[i][0]) {
-
                 if (reservedSeats[j][1] >= 2 && reservedSeats[j][1] <= 5) {
                     first = 0;
                 }
@@ -29,7 +28,7 @@ public:
                 }
                 j++;
             }
-            if (first && second && third) {
+            if (first && third) {
                 ans += 2;
             } else if (first || second || third) {
                 ans += 1;

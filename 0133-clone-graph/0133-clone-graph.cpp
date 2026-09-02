@@ -23,16 +23,16 @@ class Solution {
 public:
     unordered_map<Node*, Node*> cloned;
     Node* dfs(Node* node) {
-    if (cloned.count(node)) return cloned[node];
-    Node* copy = new Node(node->val);
-    cloned[node] = copy;
-    for (Node* nb : node->neighbors)
-        copy->neighbors.push_back(dfs(nb));
-    return copy;
-}
+        if (cloned.count(node))
+            return cloned[node];
+        Node* copy = new Node(node->val);
+        cloned[node] = copy;
+        for (Node* nb : node->neighbors)
+            copy->neighbors.push_back(dfs(nb));
+        return copy;
+    }
     Node* cloneGraph(Node* node) {
-        if(!node)
-        {
+        if (!node) {
             return node;
         }
         return dfs(node);

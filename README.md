@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/XFRCSD45/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/XFRCSD45/leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/XFRCSD45/leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/XFRCSD45/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/XFRCSD45/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/XFRCSD45/leetcode/tree/master/0684-redundant-connection) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/XFRCSD45/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/XFRCSD45/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/XFRCSD45/leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/XFRCSD45/leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/XFRCSD45/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/XFRCSD45/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/XFRCSD45/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/XFRCSD45/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/XFRCSD45/leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/XFRCSD45/leetcode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/XFRCSD45/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/XFRCSD45/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -1373,4 +1376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/XFRCSD45/leetcode/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/XFRCSD45/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/XFRCSD45/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

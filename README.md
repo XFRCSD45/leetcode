@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/XFRCSD45/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/XFRCSD45/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/XFRCSD45/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/XFRCSD45/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/XFRCSD45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/XFRCSD45/leetcode/tree/master/0084-largest-rectangle-in-histogram) |

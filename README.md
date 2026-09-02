@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/XFRCSD45/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/XFRCSD45/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/XFRCSD45/leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/XFRCSD45/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/XFRCSD45/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0934-shortest-bridge](https://github.com/XFRCSD45/leetcode/tree/master/0934-shortest-bridge) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/XFRCSD45/leetcode/tree/master/0437-path-sum-iii) |
 | [0684-redundant-connection](https://github.com/XFRCSD45/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/XFRCSD45/leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/XFRCSD45/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/XFRCSD45/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0934-shortest-bridge](https://github.com/XFRCSD45/leetcode/tree/master/0934-shortest-bridge) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/XFRCSD45/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1227,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/XFRCSD45/leetcode/tree/master/0133-clone-graph) |
 | [0684-redundant-connection](https://github.com/XFRCSD45/leetcode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/XFRCSD45/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/XFRCSD45/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/XFRCSD45/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/XFRCSD45/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/XFRCSD45/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/XFRCSD45/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/XFRCSD45/leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/XFRCSD45/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/XFRCSD45/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/XFRCSD45/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/XFRCSD45/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -1338,4 +1342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/XFRCSD45/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/XFRCSD45/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/XFRCSD45/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

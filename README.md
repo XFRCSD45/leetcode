@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/XFRCSD45/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/XFRCSD45/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/XFRCSD45/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/XFRCSD45/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/XFRCSD45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/XFRCSD45/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/XFRCSD45/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/XFRCSD45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/XFRCSD45/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/XFRCSD45/leetcode/tree/master/0268-missing-number) |
@@ -1302,4 +1304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/XFRCSD45/leetcode/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/XFRCSD45/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

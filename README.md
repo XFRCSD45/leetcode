@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/XFRCSD45/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/XFRCSD45/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/XFRCSD45/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/XFRCSD45/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/XFRCSD45/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/XFRCSD45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/XFRCSD45/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/XFRCSD45/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/XFRCSD45/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/XFRCSD45/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/XFRCSD45/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/XFRCSD45/leetcode/tree/master/0118-pascals-triangle) |
@@ -1177,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/XFRCSD45/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/XFRCSD45/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/XFRCSD45/leetcode/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/XFRCSD45/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/XFRCSD45/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |

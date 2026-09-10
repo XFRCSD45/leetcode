@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/XFRCSD45/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/XFRCSD45/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/XFRCSD45/leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/XFRCSD45/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/XFRCSD45/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/XFRCSD45/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/XFRCSD45/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/XFRCSD45/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/XFRCSD45/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/XFRCSD45/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/XFRCSD45/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/XFRCSD45/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/XFRCSD45/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/XFRCSD45/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |
